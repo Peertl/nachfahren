@@ -1,0 +1,10 @@
+{
+  "name": "WortZauber",
+  "description": "Interaktive Schreib-Lern-App für Kinder (5-8 Jahre) mit Spracherkennung, Strich-für-Strich Buchstabennachfahren, Aussprache und kindgerechten Animationen.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
